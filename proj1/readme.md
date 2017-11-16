@@ -1,1 +1,1 @@
-This folder contains my work for the Project 1 for Big Data. The requirements and questions can be seen at project1.pdf. A Chinese report for these project 
+This folder contains my work for the Project 1 for Big Data. The requirements and questions can be seen at project1.pdf. The orginal Chinese report with a lot of formulas for this project is also in the folder. 
